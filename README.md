@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ofovwe-Zita-Adjekota
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Tableau and part of SQL
+- 🌱 I’m currently learning Tableau and SQL
 - 💞️ I’m looking to collaborate on Data Analytics using Excel, Power BI, and SQL 
 - 📫 Please reach me on my email: adjekotaroz@yahoo.com
 - I would say that I have come a long way, beginning as a self-taught in SQL and then proceeding to attend a bootcamp and becoming certified today.
